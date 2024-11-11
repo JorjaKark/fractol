@@ -1,1 +1,0 @@
-cc -Wall -Wextra -Werror -g main.c -L ./minilibx-linux -lmlx -lXext -lX11 -lm -lbsd 
